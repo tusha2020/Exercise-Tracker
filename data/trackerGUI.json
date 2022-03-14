@@ -1,0 +1,123 @@
+{
+    "Entries": [
+        {
+            "routine": "",
+            "time": "",
+            "place": ""
+        },
+        {
+            "routine": "",
+            "time": "",
+            "place": ""
+        },
+        {
+            "routine": {
+                "exercises": [
+                    {
+                        "completion": false,
+                        "exerciseName": "run",
+                        "seconds": 60
+                    },
+                    {
+                        "completion": false,
+                        "exerciseName": "jump",
+                        "seconds": 60
+                    },
+                    {
+                        "completion": false,
+                        "exerciseName": "jog",
+                        "seconds": 30
+                    }
+                ],
+                "name": "hard",
+                "totalSeconds": 150
+            },
+            "time": "6:30 pm",
+            "place": "gym"
+        },
+        {
+            "routine": "",
+            "time": "",
+            "place": ""
+        },
+        {
+            "routine": {
+                "exercises": [
+                    {
+                        "completion": false,
+                        "exerciseName": "run",
+                        "seconds": 60
+                    },
+                    {
+                        "completion": false,
+                        "exerciseName": "jump",
+                        "seconds": 60
+                    },
+                    {
+                        "completion": false,
+                        "exerciseName": "jog",
+                        "seconds": 30
+                    }
+                ],
+                "name": "hard",
+                "totalSeconds": 150
+            },
+            "time": "11:30 am",
+            "place": "home"
+        },
+        {
+            "routine": "",
+            "time": "",
+            "place": ""
+        },
+        {
+            "routine": "",
+            "time": "",
+            "place": ""
+        }
+    ],
+    "routines": [
+        {
+            "exercises": [
+                {
+                    "completion": false,
+                    "exerciseName": "run",
+                    "seconds": 30
+                },
+                {
+                    "completion": false,
+                    "exerciseName": "stretch",
+                    "seconds": 30
+                },
+                {
+                    "completion": false,
+                    "exerciseName": "squats",
+                    "seconds": 30
+                }
+            ],
+            "name": "simple",
+            "totalSeconds": 90
+        },
+        {
+            "exercises": [
+                {
+                    "completion": false,
+                    "exerciseName": "run",
+                    "seconds": 60
+                },
+                {
+                    "completion": false,
+                    "exerciseName": "jump",
+                    "seconds": 60
+                },
+                {
+                    "completion": false,
+                    "exerciseName": "jog",
+                    "seconds": 30
+                }
+            ],
+            "name": "hard",
+            "totalSeconds": 150
+        }
+    ]
+}

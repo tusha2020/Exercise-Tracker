@@ -1,0 +1,75 @@
+{
+    "Entries": [
+        {
+            "routine": "",
+            "time": "",
+            "place": ""
+        },
+        {
+            "routine": {
+                "exercises": [{
+                    "completion": false,
+                    "exerciseName": "push-ups",
+                    "seconds": 30
+                }],
+                "name": "simple",
+                "totalSeconds": 30
+            },
+            "time": "2",
+            "place": "gym"
+        },
+        {
+            "routine": "",
+            "time": "",
+            "place": ""
+        },
+        {
+            "routine": "",
+            "time": "",
+            "place": ""
+        },
+        {
+            "routine": {
+                "exercises": [{
+                    "completion": false,
+                    "exerciseName": "sleeping",
+                    "seconds": 300
+                }],
+                "name": "easy",
+                "totalSeconds": 300
+            },
+            "time": "12 am",
+            "place": "home"
+        },
+        {
+            "routine": "",
+            "time": "",
+            "place": ""
+        },
+        {
+            "routine": "",
+            "time": "",
+            "place": ""
+        }
+    ],
+    "routines": [
+        {
+            "exercises": [{
+                "completion": false,
+                "exerciseName": "push-ups",
+                "seconds": 30
+            }],
+            "name": "simple",
+            "totalSeconds": 30
+        },
+        {
+            "exercises": [{
+                "completion": false,
+                "exerciseName": "sleeping",
+                "seconds": 300
+            }],
+            "name": "easy",
+            "totalSeconds": 300
+        }
+    ]
+}
